@@ -1,0 +1,24 @@
+.tamaño{
+    max-width: auto;
+    max-height: 100px;
+    min-width: auto;
+    min-height: 100px;
+}
+
+.est{
+    cursor: pointer; 
+}
+
+.est:hover{
+    opacity: .8;
+}
+
+.text{
+    color:#000;
+    font-size: 16px;
+    font-family: Arial, Sans-serif;
+}
+
+.invisible{
+    display: none;
+}
